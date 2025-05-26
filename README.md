@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-My name is Bruno Couto Gregório. I live in Divinópolis, Brazil.
+My name is Bruno Couto Gregório. I live in Divinópolis, MG, Brazil.
 
 - 👨‍💻 I’m currently working at Plataforma de Rifa;
 - 🛠️ Using TypeScript, JavaScript, C#, NodeJS and SQL;

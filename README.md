@@ -13,9 +13,9 @@ My name is Bruno Couto Gregório. I live in Divinópolis, MG, Brazil.
 - 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/bruno-gregório-b7765b23a)
 
 
-### You can find me at:
+ ## 🌟 About Me
 
-[![LinkedIn](https://img.shields.io/badge/GitHub-brunogreg-blue?logo=github)](https://github.com/brunogreg)
+ Information Systems student, passionate about technology and continuously improving my skills. I'm looking for opportunities to grow alongside the company and contribute as part of a collaborative team.
 
 ---
 

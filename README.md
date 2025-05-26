@@ -1,16 +1,26 @@
-## Hi there 👋
+## Welcome to my profile
 
-<!--
-**brunogreg/brunogreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Bruno Couto Gregório. I live in Divinópolis, Brazil.
 
-Here are some ideas to get you started:
+- 👨‍💻 I’m currently working at Plataforma de Rifa;
+- 🛠️ Using TypeScript, JavaScript, C#, NodeJS and SQL;
+- 📚 I’m currently focusing on C# and NodeJS;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### You can find me at:
+
+[![LinkedIn](https://img.shields.io/badge/GitHub-brunogreg-blue?logo=github)](https://github.com/brunogreg)
+
+---
+
+### 🧰 Technologies I work with
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+</p>

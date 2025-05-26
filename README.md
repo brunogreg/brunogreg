@@ -7,6 +7,11 @@ My name is Bruno Couto Gregório. I live in Divinópolis, Brazil.
 - 📚 I’m currently focusing on C# and NodeJS;
 
 ---
+## 📫 Contact me
+
+- ✉️ Email: [brunogreg@hotmail.com](mailto:brunogreg@hotmail.com)
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/bruno-gregório-b7765b23a)
+
 
 ### You can find me at:
 

@@ -2,9 +2,9 @@
 
 My name is Bruno Couto Gregório. I live in Divinópolis, MG, Brazil.
 
-- 👨‍💻 I’m currently working at Plataforma de Rifa;
-- 🛠️ Using TypeScript, JavaScript, C#, NodeJS and SQL;
-- 📚 I’m currently focusing on C# and NodeJS;
+- 👨‍💻 I’m currently an intern at **DGB Tecnologia**;
+- 📚 I’m currently studying **C#**, **ADVPL**, and **SQL**;
+- 🎯 My main focus is improving my skills in **backend development** and **Protheus (TOTVS)** ecosystem.
 
 ---
 ## 📫 Contact me
@@ -28,4 +28,5 @@ My name is Bruno Couto Gregório. I live in Divinópolis, MG, Brazil.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Logo_Totvs.png" width="40" height="40" />
 </p>
